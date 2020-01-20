@@ -1,2 +1,2 @@
 # Deep-Learning
-This repo is for the Institute course Deep Learning
+This repo contains assignments of Institute's course Deep Learning
